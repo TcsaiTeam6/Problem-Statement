@@ -1,2 +1,3 @@
 # Problem-Statement
 Statement06
+Title Name: IOT Energy Consumption Optimization Agent. Problem Statements: Optimizing energy consumption across IoT- enabled devices in digital engineering setups is challenging without real-time Insights and recommendations. Steps: Build an AI agent that analyzes energy usage data from IoT devices. Use Langchain or Llamaindex to Identify in efficiencies and suggest optimization strategies. Allow users to query energy consumption patterns and recieve recommendations. Test with sample IoT energy data. Data requirements: Energy consumption logs, device metadata, operational schedules. Sample data can be genereated or sourced from open IoT energy datasets. Expected Output: Textual reports on energy usage and optimization suggestions.
