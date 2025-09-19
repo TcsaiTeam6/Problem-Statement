@@ -1,0 +1,6 @@
+device_id,device_type,location
+device_1,AC Unit,Zone_3
+device_2,3D Printer,Zone_3
+device_3,CNC Machine,Zone_2
+device_4,Conveyor,Zone_3
+device_5,Lighting,Zone_1
